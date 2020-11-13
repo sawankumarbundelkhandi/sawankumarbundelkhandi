@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![my github stats](https://github-readme-stats.vercel.app/api?username=sawankumarbundelkhandi&show_icons=true)
+
 <!--
 **sawankumarbundelkhandi/sawankumarbundelkhandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
